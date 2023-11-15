@@ -1,0 +1,35 @@
+_repo: Lefty-o-the-Bush_72013
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, Gilbert
+    - Patten, William Gilbert
+    - Wilder, William West
+    - Wilder, William W. (William West)
+    - Patten, George William
+    - Patten, William G. (William Gilbert)
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2023-11-02'
+identifiers:
+  gutenberg: '72013'
+language: en
+pgterms:marc905: 20180320121235standish
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bGrosset & Dunlap, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lefty o' the Bush
+url: http://www.gutenberg.org/ebooks/72013
